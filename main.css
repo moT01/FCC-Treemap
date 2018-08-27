@@ -1,0 +1,17 @@
+/*STYLE FOR ELEMENTS NOT USED IN D3*/
+* {
+  cursor: default;
+  margin: 0;
+  padding: 0; }
+
+body {
+  height: 100vh;
+  margin: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #ccc; }
+
+#svg-wrap {
+  margin: 20px;
+  text-align: center; }
